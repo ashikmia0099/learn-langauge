@@ -14,7 +14,7 @@ const LangCategory = ({language}) => {
     }
 
     return (
-        <div className='flex items-center border px-3 py-3 border-gray-100 mx-3 rounded-xl mt-4 justify-between'>
+        <div className='flex items-center border px-10 py-3 border-gray-100 mx-3 rounded-xl mt-4 justify-between'>
             <div className='text-left flex items-center space-x-2'>
                 <div>
                     <FaBuilding className='text-gray-300 text-6xl' />

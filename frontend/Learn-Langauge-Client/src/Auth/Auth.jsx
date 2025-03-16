@@ -12,7 +12,7 @@ const Auth = () => {
 
 
     return (
-        <div className=' backdrop-blur-sm lg:px-10 py-10'>
+        <div className=' backdrop-blur-sm lg:px-10 py-10 max-w-7xl mx-auto'>
             <div className="hero bg-[#2A2515]   mx-auto rounded-xl">
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 p-6 sm:p-10">
 

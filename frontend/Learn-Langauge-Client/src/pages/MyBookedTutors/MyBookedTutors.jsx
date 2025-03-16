@@ -66,7 +66,7 @@ const MyBookedTutors = () => {
 
     return (
 
-        <div className='mx-10'>
+        <div className='mx-10 max-w-7xl mx-auto'>
             <h1 className='text-3xl font-semibold my-10'> MY Total Booked Tutor : {bookedTutor.length}</h1>
             <div>
                 {

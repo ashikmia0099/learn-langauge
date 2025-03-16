@@ -61,7 +61,7 @@ const AddTutorials = () => {
 
 
     return (
-        <div>
+        <div className='max-w-7xl mx-auto'>
             <h2 className="text-3xl">Add A new Turtor</h2>
             <form onSubmit={handleAddTutor} className="card-body">
                 {/* Tutor Name */}

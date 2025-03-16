@@ -50,7 +50,7 @@ const FindTutors = () => {
 
 
     return (
-        <div className='lg:grid lg:grid-cols-10 bg-[#181A1B]'>
+        <div className='lg:grid lg:grid-cols-10 bg-[#181A1B] max-w-7xl mx-auto'>
 
 
             <div className=' col-span-8'>

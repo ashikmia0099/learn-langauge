@@ -1,7 +1,6 @@
 import React, { useContext } from 'react';
 import { TheamContext } from '../TheamProvider/TheamProvider';
 
-
 const TheamContoler = () => {
   const { theme, toggleTheme } = useContext(TheamContext);
 
